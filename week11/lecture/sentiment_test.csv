@@ -1,0 +1,57 @@
+text,category
+"Oh great, another meeting that could've been an email!",sarcasm
+"Well isn't this just perfect...",sarcasm
+"How wonderful to spend my Sunday fixing someone else's mistakes",sarcasm
+"Thanks for nothing",sarcasm
+"You're so helpful /s",sarcasm
+"Absolutely thrilled to be stuck in traffic right now",sarcasm
+"My favorite part was when the system crashed",sarcasm
+"This product is good, I guess...",intensifiers
+"The service was AMAZING!!!",intensifiers
+"The food wasn't bad at all",intensifiers
+"This movie was kind of awesome",intensifiers
+"The presentation went super well!!",intensifiers
+"The experience was somewhat... acceptable",intensifiers
+"It's basically nearly almost good enough",intensifiers
+"I don't hate it",negations
+"This isn't the worst thing I've seen",negations
+"Can't complain about this service",negations
+"No one can deny that this works great",negations
+"Never been disappointed by their products",negations
+"Not exactly what I wouldn't recommend",negations
+"Couldn't be more unlike the terrible service elsewhere",negations
+"This game is sick!",context_dependent
+"That presentation was killer",context_dependent
+"What a bomb dinner",context_dependent
+"This party is crazy",context_dependent
+"Your new haircut is wild",context_dependent
+"This project is absolutely mental",context_dependent
+"The new update is lowkey fire though",context_dependent
+"Started terrible but ended up being amazing",mixed_sentiment
+"Despite the problems, I really love this place",mixed_sentiment
+"The price is high but totally worth it",mixed_sentiment
+"Not what I expected but pleasantly surprised",mixed_sentiment
+"Horrible start to the day but everything worked out perfectly",mixed_sentiment
+"Beautiful disaster of a performance",mixed_sentiment
+"Loved the movie even though the ending made me cry",mixed_sentiment
+"This is fine 🙃",emoji_slang
+"Love how 'reliable' this is lmao",emoji_slang
+"Best fail ever 😂",emoji_slang
+"gg ez no re",emoji_slang
+"Living my best life rn fr fr 😭",emoji_slang
+"Deadass the most mid thing I've seen ngl 💀",emoji_slang
+"It's giving try-hard vibes tbh ✨",emoji_slang
+"I've seen better",subtle_implications
+"It works as advertised, I suppose",subtle_implications
+"You could say it's interesting",subtle_implications
+"Let's just say it's unique",subtle_implications
+"Well, that's one way to do it",subtle_implications
+"Some people might enjoy this kind of thing",subtle_implications
+"At least they tried their best",subtle_implications
+"I'm literally crying at how good this is",complex_emotions
+"This hurts so good",complex_emotions
+"I hate that I love this so much",complex_emotions
+"Painfully beautiful performance",complex_emotions
+"Delightfully disturbing masterpiece",complex_emotions
+"Nostalgically heartbreaking in the best way",complex_emotions
+"So cringe it's actually endearing",complex_emotions

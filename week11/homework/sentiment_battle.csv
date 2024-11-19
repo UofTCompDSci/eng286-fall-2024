@@ -1,0 +1,57 @@
+,text,category,textblob_score,textblob_sentiment,vader_score,vader_sentiment,sentiment_mismatch
+0,"Oh great, another meeting that could've been an email!",sarcasm,1.0,positive,0.6588,positive,False
+1,Well isn't this just perfect...,sarcasm,1.0,positive,0.2732,positive,False
+2,How wonderful to spend my Sunday fixing someone else's mistakes,sarcasm,1.0,positive,0.296,positive,False
+3,Thanks for nothing,sarcasm,0.2,positive,0.4404,positive,False
+4,You're so helpful /s,sarcasm,0.0,neutral,0.4754,positive,True
+5,Absolutely thrilled to be stuck in traffic right now,sarcasm,0.44285714285714284,positive,0.2944,positive,False
+6,My favorite part was when the system crashed,sarcasm,0.5,positive,0.4588,positive,False
+7,"This product is good, I guess...",intensifiers,0.7,positive,0.4404,positive,False
+8,The service was AMAZING!!!,intensifiers,1.0,positive,0.7513,positive,False
+9,The food wasn't bad at all,intensifiers,-0.6999999999999998,negative,0.431,positive,True
+10,This movie was kind of awesome,intensifiers,0.8,positive,0.5868,positive,False
+11,The presentation went super well!!,intensifiers,0.5208333333333333,positive,0.7639,positive,False
+12,The experience was somewhat... acceptable,intensifiers,0.0,neutral,0.3182,positive,True
+13,It's basically nearly almost good enough,intensifiers,0.26666666666666666,positive,0.3832,positive,False
+14,I don't hate it,negations,-0.8,negative,0.4585,positive,True
+15,This isn't the worst thing I've seen,negations,-1.0,negative,0.5096,positive,True
+16,Can't complain about this service,negations,0.0,neutral,0.2755,positive,True
+17,No one can deny that this works great,negations,0.8,positive,0.128,positive,False
+18,Never been disappointed by their products,negations,-0.75,negative,0.3724,positive,True
+19,Not exactly what I wouldn't recommend,negations,-0.125,negative,-0.2755,negative,False
+20,Couldn't be more unlike the terrible service elsewhere,negations,-0.25,negative,-0.5209,negative,False
+21,This game is sick!,context_dependent,-0.6464285714285715,negative,-0.5562,negative,False
+22,That presentation was killer,context_dependent,0.0,neutral,-0.6486,negative,True
+23,What a bomb dinner,context_dependent,0.0,neutral,-0.4939,negative,True
+24,This party is crazy,context_dependent,-0.6,negative,0.0772,positive,True
+25,Your new haircut is wild,context_dependent,0.11818181818181818,positive,0.0,neutral,True
+26,This project is absolutely mental,context_dependent,-0.1,negative,0.0,neutral,True
+27,The new update is lowkey fire though,context_dependent,0.13636363636363635,positive,-0.34,negative,True
+28,Started terrible but ended up being amazing,mixed_sentiment,-0.19999999999999996,negative,0.631,positive,True
+29,"Despite the problems, I really love this place",mixed_sentiment,0.5,positive,0.7751,positive,False
+30,The price is high but totally worth it,mixed_sentiment,0.22999999999999998,positive,0.4194,positive,False
+31,Not what I expected but pleasantly surprised,mixed_sentiment,0.0,neutral,0.7579,positive,True
+32,Horrible start to the day but everything worked out perfectly,mixed_sentiment,0.0,neutral,0.6757,positive,True
+33,Beautiful disaster of a performance,mixed_sentiment,0.85,positive,-0.0516,negative,True
+34,Loved the movie even though the ending made me cry,mixed_sentiment,0.7,positive,0.2023,positive,False
+35,This is fine 🙃,emoji_slang,0.4166666666666667,positive,0.2023,positive,False
+36,Love how 'reliable' this is lmao,emoji_slang,0.55,positive,0.8442,positive,False
+37,Best fail ever 😂,emoji_slang,0.25,positive,0.1779,positive,False
+38,gg ez no re,emoji_slang,0.0,neutral,0.3612,positive,True
+39,Living my best life rn fr fr 😭,emoji_slang,1.0,positive,0.6369,positive,False
+40,Deadass the most mid thing I've seen ngl 💀,emoji_slang,0.25,positive,0.0,neutral,True
+41,It's giving try-hard vibes tbh ✨,emoji_slang,0.0,neutral,0.34,positive,True
+42,I've seen better,subtle_implications,0.5,positive,0.4404,positive,False
+43,"It works as advertised, I suppose",subtle_implications,0.0,neutral,0.0,neutral,False
+44,You could say it's interesting,subtle_implications,0.5,positive,0.4019,positive,False
+45,Let's just say it's unique,subtle_implications,0.375,positive,0.0,neutral,True
+46,"Well, that's one way to do it",subtle_implications,0.0,neutral,0.2732,positive,True
+47,Some people might enjoy this kind of thing,subtle_implications,0.5,positive,0.4939,positive,False
+48,At least they tried their best,subtle_implications,0.35,positive,0.6369,positive,False
+49,I'm literally crying at how good this is,complex_emotions,0.24999999999999997,positive,-0.0516,negative,True
+50,This hurts so good,complex_emotions,0.7,positive,0.1633,positive,False
+51,I hate that I love this so much,complex_emotions,-0.03333333333333335,negative,0.128,positive,True
+52,Painfully beautiful performance,complex_emotions,0.85,positive,0.128,positive,False
+53,Delightfully disturbing masterpiece,complex_emotions,-0.5,negative,0.6705,positive,True
+54,Nostalgically heartbreaking in the best way,complex_emotions,1.0,positive,0.296,positive,False
+55,So cringe it's actually endearing,complex_emotions,0.5,positive,0.0,neutral,True
